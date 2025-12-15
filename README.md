@@ -25,10 +25,10 @@ The goal was to deliver executive-level insights and recommendations that align 
   - Insights corresponding to each key questions listed above
 - [SDV Talent report containing:](https://github.com/sven-friedel/workforce-insights-project/blob/main/SDV_Talent_Report.pptx)
   - Executive summary
-  - Summary on findings on key dimensions: Hiring, attrition and skills
+  - Key findings across hiring, attrition and skills
   - Recommendations to align workforce planning with SDV priorities
 
 ## 🧠 What This Project Demonstrates
 - Competence to work end-to-end with business-relevant data
 - Capability to transform raw workforce data into meaningful insights
-- Proficiency in aquiring necessary Industry (e.g. Automotive) and Domain (e.g. HR) Knowledge to translate technical concepts into the stakeholders language
+- Proficiency in aquiring necessary industry (e.g. automotive) and domain knowledge (e.g. HR) to translate technical concepts into the stakeholders language
